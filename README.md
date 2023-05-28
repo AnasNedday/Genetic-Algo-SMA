@@ -41,4 +41,5 @@ The population has a fixed size. As new generations are formed, individuals with
 
 The sequence of phases is repeated to produce individuals in each new generation which are better than the previous generation.
 
-
+##ISLAND AGENT PROJECT EXAMPLE :
+![jade.png](jade.png) 
